@@ -508,12 +508,16 @@ footer .grid-container #footer-bottom button a {
         width:1100px;
     }
 
+    #home-page .prices .prices-wrapper {
+        max-width: 1100px;
+    }
+
     #home-page .prices .prices-wrapper .prices-cards {
         grid-template-columns: repeat(2,1fr);
     }
 
     #about-page .wrapper {
-        width: 1100px;
+        max-width: 1100px;
     }
 
     #about-page .wrapper .card img {

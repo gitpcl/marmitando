@@ -112,7 +112,7 @@ header .nav .hamburger:focus {
 
 #home-page .cta::before {
     content:"";
-    background: url(../assets/food.jpg);
+    background: url(../assets/marmitando.mp4);
     background-size: cover;
     filter: brightness(50%);
     top:0;
